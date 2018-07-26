@@ -1,0 +1,6 @@
+/Users/takahashimasahiro/Projects/jarjar/jarjar/obj/x86/Debug/jarjar.csprojResolveAssemblyReference.cache
+/Users/takahashimasahiro/Projects/jarjar/jarjar/obj/x86/Debug/jarjar.csproj.CoreCompileInputs.cache
+/Users/takahashimasahiro/Projects/jarjar/jarjar/bin/Debug/jarjar.exe
+/Users/takahashimasahiro/Projects/jarjar/jarjar/bin/Debug/jarjar.pdb
+/Users/takahashimasahiro/Projects/jarjar/jarjar/obj/x86/Debug/jarjar.exe
+/Users/takahashimasahiro/Projects/jarjar/jarjar/obj/x86/Debug/jarjar.pdb
